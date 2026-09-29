@@ -4,10 +4,7 @@
 ## 📋 Índice
 1. [Acerca del proyecto](#acerca-del-proyecto)
 2. [Características](#características)
-3. [Instalación y Compilación](#instalación-y-compilación)
-4. [Cómo usar / Ejecutar](#cómo-usar--ejecutar)
-5. [Controles](#controles)
-6. [Estructura del mapa (.cub)](#estructura-del-mapa-cub)
+3. [Requisitos + ejecución y explicacióm](#Requisitos-previos)
 
 ## 🚀 Acerca del proyecto
 El objetivo de **cub3d** es recrear una perspectiva en primera persona dentro de un laberinto. A través de matemáticas y vectores aplicados en C, el programa calcula la distancia de los rayos lanzados desde el punto de vista del jugador hasta las paredes del mapa, renderizando texturas en las paredes norte, sur, este y oeste, además de gestionar colores personalizados para el suelo y el techo.
